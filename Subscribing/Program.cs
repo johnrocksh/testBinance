@@ -116,8 +116,8 @@ namespace Example
     }   
     static class TradesList {
 
-        static public int T = 60_000;   
-        static  public  int N = 10000;    
+        static public int T = 5_000;   
+        static  public  int N = 20;    
         static public object LockerOfResultList = new object();
         static public ObservableCollection<Trade> ListOfTrades { get; set; } =  new ObservableCollection<Trade>();
         static  public List<Trade> ListOfResultTrades = new();     

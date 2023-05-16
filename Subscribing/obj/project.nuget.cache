@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "82rWZ1dVMis2VTg7yXjCbz0rgTwBNneqnGNV5t6JZmcAXzJpEBHbePsUJ0olmaDyzU8prrSmdbEgNSfZVA+ORw==",
+  "dgSpecHash": "IBi26C2cHpPI6MDeR+GQ5iRmCTVW3SxdA001J2cLqv65gEGGX9gnMj0Xh67lfPRZmH4C++k7xaVp82c5D51w2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\isevcenco\\source\\repos\\Subscribing\\Subscribing\\Subscribing.csproj",
+  "projectFilePath": "D:\\isevcenco\\WORK\\projects\\testBinance\\Subscribing\\Subscribing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\isevcenco\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\isevcenco\\.nuget\\packages\\websocketsharp\\1.0.3-rc11\\websocketsharp.1.0.3-rc11.nupkg.sha512"

@@ -1,23 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isevcenco\\source\\repos\\Subscribing\\Subscribing\\Subscribing.csproj": {}
+    "D:\\isevcenco\\WORK\\projects\\testBinance\\Subscribing\\Subscribing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isevcenco\\source\\repos\\Subscribing\\Subscribing\\Subscribing.csproj": {
+    "D:\\isevcenco\\WORK\\projects\\testBinance\\Subscribing\\Subscribing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isevcenco\\source\\repos\\Subscribing\\Subscribing\\Subscribing.csproj",
+        "projectUniqueName": "D:\\isevcenco\\WORK\\projects\\testBinance\\Subscribing\\Subscribing.csproj",
         "projectName": "Subscribing",
-        "projectPath": "C:\\Users\\isevcenco\\source\\repos\\Subscribing\\Subscribing\\Subscribing.csproj",
+        "projectPath": "D:\\isevcenco\\WORK\\projects\\testBinance\\Subscribing\\Subscribing.csproj",
         "packagesPath": "C:\\Users\\isevcenco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isevcenco\\source\\repos\\Subscribing\\Subscribing\\obj\\",
+        "outputPath": "D:\\isevcenco\\WORK\\projects\\testBinance\\Subscribing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\isevcenco\\NuGet.Config",
           "D:\\isevcenco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -26,6 +25,7 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
